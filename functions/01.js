@@ -7,5 +7,6 @@
  * Example: totalCost(10, 3) should return 30.
  */
 export function totalCost(price, quantity) {
+  // Test comment
   return price * quantity
 }
